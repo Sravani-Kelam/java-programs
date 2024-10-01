@@ -1,0 +1,9 @@
+class Employee-1{
+int eid=10;
+public void m1(){
+system.out.println(x:"Employee-1 Class - m1 method);
+}
+public static void main(String args[]){
+m1;
+}
+} 
